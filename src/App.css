@@ -1,0 +1,15 @@
+main {
+    display: flex;
+    /* flex-direction: column; */
+
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    border: solid 0.5px;
+    padding: 50px;
+    min-width: 400px;
+    margin: 50px;
+    height: 400px;
+}
