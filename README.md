@@ -1,6 +1,6 @@
 # React Custom Hooks Examples
 
-This is a companion project to my post "Creating Custom Hooks with React."
+This is a companion project to my post [Writing Custom Hooks with React](https://rhythmandbinary.com/post/2023-01-10-writing-custom-hooks-with-react).
 
 The project has 3 example components that are all basically the same "To-Do" list:
 
